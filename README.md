@@ -75,10 +75,11 @@
 
 ## Screenshots
 
+![login](https://github.com/shivamverma26/ATM_Simulator/assets/94590743/5a55fabf-422b-4529-b67f-6381024294b5)
+![signup1](https://github.com/shivamverma26/ATM_Simulator/assets/94590743/5aa34aec-4ff1-41a5-99d6-d54cdfd32265)
+![transaction](https://github.com/shivamverma26/ATM_Simulator/assets/94590743/4cb12f21-36c0-4c81-a8b9-70034c15c9df)
 
-![login](https://github.com/shivamverma26/ATM_Simulator/assets/94590743/d594f3fe-a6bd-4eda-aac0-198155bac2a4)<br>
-![transactio](https://github.com/shivamverma26/ATM_Simulator/assets/94590743/8bbdd1a9-9423-4a5d-a930-585cf3eb4eba)
-![signup1](https://github.com/shivamverma26/ATM_Simulator/assets/94590743/46d56cca-5a83-48c2-a0ba-97a636ada7b8)
+
 
 
 
